@@ -3,8 +3,6 @@
 
 - 📫 How to reach me **huongnt1915@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nguyen-thu-huong-3a69b61aa/](https://www.linkedin.com/in/nguyen-thu-huong-3a69b61aa/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
