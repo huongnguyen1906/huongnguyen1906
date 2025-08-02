@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huong</h1>
-<h3 align="center">This is to update the project and deepen my understanding of data.</h3>
+<h3 align="center">This is my personal hub where I work on and update my data projects as well as continue learning and expanding my understanding of data.</h3>
 
 - 📫 How to reach me **huongnt1915@gmail.com**
 
